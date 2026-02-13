@@ -16,9 +16,9 @@ I am a Software Development student passionate about building efficient web appl
 Open-source projects, continuous learning initiatives, and innovative web development solutions. 
 
 ### 📫 Let's Connect!
-- **LinkedIn:** [Insert your LinkedIn URL]
-- **Email:** [Insert your Email]
-- **Portfolio:** [Insert your Portfolio link if you have one]
+- **LinkedIn:** []
+- **Email:** [cemadev01@gmail.com]
+- **Portfolio:** []
 
 <!---
 Cematiasok/Cematiasok is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
