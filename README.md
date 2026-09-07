@@ -26,6 +26,7 @@ I am a Software Developer blending a strong technical background in industrial e
 - **LinkedIn:** []
 - **Email:** cemadev01@gmail.com
 - **Portfolio:** https://mh.hvmd.dev/
+- **Instragram:** @cemadev01
 <!---
 Cematiasok/Cematiasok is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
